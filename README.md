@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank126&" alt="shashank126" /></p>
 
-## Watch snake eating my github contributions
+## Watch Snake Eating My GitHub Contributions
 ![snake gif](https://github.com/Shashank126/Shashank126/blob/output/github-contribution-grid-snake.svg)
