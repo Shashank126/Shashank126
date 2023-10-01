@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="analyst" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fanalyst&psig=AOvVaw3IgNl-GwqMNGxOWOqxayi3&ust=1696245469370000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiHiPfc1IEDFQAAAAAdAAAAABAQ](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)"> 
+<img align="right" alt="analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank126&label=Profile%20views&color=0e75b6&style=flat" alt="shashank126" /> </p>
 
