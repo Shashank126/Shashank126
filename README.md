@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank126&show_icons=true&locale=en" alt="shashank126" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank126&" alt="shashank126" /></p>
+
+## Watch snake eating my github contributions
+![snake gif](https://github.com/Shashank126/Shashank126/blob/output/github-contribution-grid-snake.svg)
