@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shashank+Mishra!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
